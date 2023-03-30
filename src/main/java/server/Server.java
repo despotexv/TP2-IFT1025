@@ -1,5 +1,5 @@
 package main.java.server;
-
+// LOLOLO
 import javafx.util.Pair;
 import main.java.server.models.Course;
 
